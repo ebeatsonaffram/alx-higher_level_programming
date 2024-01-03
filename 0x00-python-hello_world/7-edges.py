@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#!/usr/bin/python3
 word = "Holberton"
 # YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
 word_first_3 = word[:3]
