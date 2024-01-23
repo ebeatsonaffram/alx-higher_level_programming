@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#4-square.py project by Enyonam Beatson-Affram
+# 4-square.py project by Enyonam Beatson-Affram
+
 
 class Square:
     """Representation of a square"""
