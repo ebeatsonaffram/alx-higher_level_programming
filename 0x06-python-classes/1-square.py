@@ -1,8 +1,16 @@
 #!/usr/bin/python3
-"""This module is an empty class square"""
+"""A module for square with private attribute"""
 
 
 class Square:
-    """Define a square"""
+    """Defines a square."""
 
-    pass
+    def __init__(self, size):
+        """
+        Initializes a square with a given size.
+
+        Args:
+            size (int): The side length of the square.
+        """
+
+        self.__size = size
