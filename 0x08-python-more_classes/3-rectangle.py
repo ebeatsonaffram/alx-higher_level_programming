@@ -64,4 +64,3 @@ class Rectangle:
         if column != self.__height - 1:
             new_rect.append("\n")
         return ("".join(new_rect))
-
